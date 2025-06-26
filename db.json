@@ -1,12 +1,76 @@
 {
-  "apiEndpoint" : [
+  "pets": [
     {
-      "name" : "UMA",
-      "skills" : ["javaScript", "node.js", "react.js"]
+      "id": 1,
+      "name": "Buddy",
+      "type": "dog",
+      "breed": "Labrador Retriever",
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Medium",
+      "description": "Friendly and energetic, great with kids.",
+      "status": "Adoptable",
+      "image": "https://source.unsplash.com/featured/300x200/?labrador-retriever"
     },
     {
-      "name":"RADHA",
-      "skills" : ["Adobe Illustrator", "Adobe After effects"]
+      "id": 2,
+      "name": "Mittens",
+      "type": "cat",
+      "breed": "Domestic Shorthair",
+      "age": "Young",
+      "gender": "Female",
+      "size": "Small",
+      "description": "Loves lap naps and laser pointers.",
+      "status": "Adoptable",
+      "image": "https://source.unsplash.com/featured/300x200/?domestic-shorthair-cat"
+    },
+    {
+      "id": 3,
+      "name": "Charlie",
+      "type": "dog",
+      "breed": "Beagle",
+      "age": "Senior",
+      "gender": "Male",
+      "size": "Medium",
+      "description": "Calm, enjoys leisurely walks.",
+      "status": "Pending",
+      "image": "https://source.unsplash.com/featured/300x200/?beagle-dog"
+    },
+    {
+      "id": 4,
+      "name": "Luna",
+      "type": "cat",
+      "breed": "Siamese",
+      "age": "Adult",
+      "gender": "Female",
+      "size": "Small",
+      "description": "Vocal and affectionate, loves sunbeams.",
+      "status": "Adoptable",
+      "image": "https://source.unsplash.com/featured/300x200/?siamese-cat"
+    },
+    {
+      "id": 5,
+      "name": "Max",
+      "type": "dog",
+      "breed": "German Shepherd",
+      "age": "Young",
+      "gender": "Male",
+      "size": "Large",
+      "description": "Loyal and alert, excellent companion.",
+      "status": "Adoptable",
+      "image": "https://source.unsplash.com/featured/300x200/?german-shepherd"
+    },
+    {
+      "id": 6,
+      "name": "Coco",
+      "type": "bird",
+      "breed": "African Grey",
+      "age": "Adult",
+      "gender": "Female",
+      "size": "Small",
+      "description": "Intelligent and talkative parrot.",
+      "status": "Adoptable",
+      "image": "https://source.unsplash.com/featured/300x200/?african-grey-parrot"
     }
   ]
 }
