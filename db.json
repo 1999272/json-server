@@ -59,19 +59,8 @@
       "description": "Loyal and alert, excellent companion.",
       "status": "Adoptable",
       "image": "https://source.unsplash.com/featured/300x200/?german-shepherd"
-    },
-    {
-      "id": 6,
-      "name": "Coco",
-      "type": "bird",
-      "breed": "African Grey",
-      "age": "Adult",
-      "gender": "Female",
-      "size": "Small",
-      "description": "Intelligent and talkative parrot.",
-      "status": "Adoptable",
-      "image": "https://source.unsplash.com/featured/300x200/?african-grey-parrot"
     }
+    
   ]
 }
 
